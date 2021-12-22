@@ -1,0 +1,5 @@
+com\example\multidownloader\DownloadController.class
+com\example\multidownloader\DownloadTask.class
+com\example\multidownloader\util\R.class
+com\example\multidownloader\App.class
+com\example\multidownloader\AppController.class
