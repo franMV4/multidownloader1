@@ -117,7 +117,7 @@ public class AppController {
             e.printStackTrace();
         }
 
-        // Para cada linea, llamar al método launchDownload
+        // Para cada linea, llamar a launchDownload
     }
 
     @FXML
